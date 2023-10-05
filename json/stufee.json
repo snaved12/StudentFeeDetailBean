@@ -1,0 +1,26 @@
+[
+  {
+    "Date": "03-10-23",
+    "StudentName": "Naved",
+    "Description": "CSE",
+    "Amount": 1000,
+    "Category": "Tution fee",
+    "Balance": 200
+  },
+  {
+    "Date": "03-10-23",
+    "StudentName": "John",
+    "Description": "Math",
+    "Amount": 800,
+    "Category": "Tution fee",
+    "Balance": 300
+  },
+  {
+    "Date": "03-10-23",
+    "StudentName": "Alice",
+    "Description": "Physics",
+    "Amount": 1200,
+    "Category": "Tution fee",
+    "Balance": 150
+  }
+]
